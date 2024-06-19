@@ -101,6 +101,3 @@ This repository contains the implementation of a supermarket Management System u
 - **Staff.java**
 - **Supplier.java**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
