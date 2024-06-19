@@ -57,25 +57,23 @@ This repository contains the implementation of a supermarket Management System u
 ## Screenshots
 
 1. **Login Screen**:
-    ![Login Screen](images/login_screen.png)
+    ![Login Screen](https://github.com/Khalid-Ali-Farah/object-oriented-programming-supermarket-management-system-2023/blob/1244e20773678354e3be09bc6119bcf22f4b5aaa/SUPERMARKET%20MANAGEMENT%20SYSTEM/screenshot/1.png)
 
 2. **Staff Dashboard**:
-    ![Staff Dashboard](images/staff_dashboard.png)
+    ![Staff Dashboard](https://github.com/Khalid-Ali-Farah/object-oriented-programming-supermarket-management-system-2023/blob/1244e20773678354e3be09bc6119bcf22f4b5aaa/SUPERMARKET%20MANAGEMENT%20SYSTEM/screenshot/6.png)
 
 3. **Admin Dashboard**:
-    ![Admin Dashboard](images/admin_dashboard.png)
+    ![Admin Dashboard](https://github.com/Khalid-Ali-Farah/object-oriented-programming-supermarket-management-system-2023/blob/1244e20773678354e3be09bc6119bcf22f4b5aaa/SUPERMARKET%20MANAGEMENT%20SYSTEM/screenshot/2.png)
 
 4. **Add Staff Form**:
-    ![Add Staff Form](images/add_staff_form.png)
+    ![Add Staff Form](https://github.com/Khalid-Ali-Farah/object-oriented-programming-supermarket-management-system-2023/blob/1244e20773678354e3be09bc6119bcf22f4b5aaa/SUPERMARKET%20MANAGEMENT%20SYSTEM/screenshot/4.png)
 
-5. **View Staff List**:
-    ![View Staff List](images/view_staff_list.png)
+5. **Add Product Form**:
+    ![Add Product Form](https://github.com/Khalid-Ali-Farah/object-oriented-programming-supermarket-management-system-2023/blob/1244e20773678354e3be09bc6119bcf22f4b5aaa/SUPERMARKET%20MANAGEMENT%20SYSTEM/screenshot/7.png)
+   
+6. **Add Supplier Form**:
+ ![Add Supplier Form](https://github.com/Khalid-Ali-Farah/object-oriented-programming-supermarket-management-system-2023/blob/1244e20773678354e3be09bc6119bcf22f4b5aaa/SUPERMARKET%20MANAGEMENT%20SYSTEM/screenshot/5.png)
 
-6. **Add Product Form**:
-    ![Add Product Form](images/add_product_form.png)
-
-7. **View Product List**:
-    ![View Product List](images/view_product_list.png)
 
 ## Classes and Methods
 
